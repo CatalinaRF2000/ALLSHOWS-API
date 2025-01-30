@@ -1,0 +1,183 @@
+[
+    {
+      "nombre": "Yulia Violin",
+      "descripcion": "Violinista",
+      "tags": ["live", "solo"],
+      "precio": null
+    },
+    {
+      "nombre": "Claudia Carrera",
+      "descripcion": "Violinista",
+      "tags": ["live", "solo"],
+      "precio": null
+    },
+    {
+      "nombre": "Jovan",
+      "descripcion": "Guitarrista",
+      "tags": ["live", "solo"],
+      "precio": null
+    },
+    {
+      "nombre": "SoulCat",
+      "descripcion": "Cantante de pop-rock",
+      "tags": ["live", "solo"],
+      "precio": null
+    },
+    {
+      "nombre": "The Tenor Show",
+      "descripcion": "Cantante tenor",
+      "tags": ["live", "solo"],
+      "precio": null
+    },
+    {
+      "nombre": "Francina Mateu",
+      "descripcion": "Cantante",
+      "tags": ["live", "solo"],
+      "precio": null
+    },
+    {
+      "nombre": "Vili Saxo",
+      "descripcion": "Saxofonista",
+      "tags": ["live", "solo"],
+      "precio": null
+    },
+    {
+      "nombre": "DJ Leo",
+      "descripcion": "DJ",
+      "tags": ["live", "solo"],
+      "precio": null
+    },
+    {
+      "nombre": "DUET Latino",
+      "descripcion": "Dúo latino",
+      "tags": ["live", "duo"],
+      "precio": null
+    },
+    {
+      "nombre": "The Immortals",
+      "descripcion": "Dúo",
+      "tags": ["live", "duo"],
+      "precio": null
+    },
+    {
+      "nombre": "Nashville",
+      "descripcion": "Dúo country",
+      "tags": ["live", "duo"],
+      "precio": null
+    },
+    {
+      "nombre": "Jango",
+      "descripcion": "Dúo de música bailable",
+      "tags": ["live", "duo"],
+      "precio": null
+    },
+    {
+      "nombre": "DUET International",
+      "descripcion": "Dúo de música internacional",
+      "tags": ["live", "duo"],
+      "precio": null
+    },
+    {
+      "nombre": "Deep Blue",
+      "descripcion": "Dúo pop-rock",
+      "tags": ["live", "duo"],
+      "precio": null
+    },
+    {
+      "nombre": "B Plan",
+      "descripcion": "Banda pop-rock",
+      "tags": ["live", "trio", "banda"],
+      "precio": null
+    },
+    {
+      "nombre": "Samba Da Ilha",
+      "descripcion": "Banda brasileña",
+      "tags": ["live", "trio", "banda"],
+      "precio": null
+    },
+    {
+      "nombre": "Sam Connors",
+      "descripcion": "Banda pop-rock",
+      "tags": ["live", "trio", "banda"],
+      "precio": null
+    },
+    {
+      "nombre": "FreeSouls",
+      "descripcion": "Banda pop-rock",
+      "tags": ["live", "trio", "banda"],
+      "precio": null
+    },
+    {
+      "nombre": "Spanish Ballet Show",
+      "descripcion": "Flamenco",
+      "tags": ["visual", "baile", "flamenco"],
+      "precio": null
+    },
+    {
+      "nombre": "The Revival Show",
+      "descripcion": "Baile",
+      "tags": ["visual", "baile"],
+      "precio": null
+    },
+    {
+      "nombre": "Emilio Torres",
+      "descripcion": "Baile",
+      "tags": ["visual", "baile", "flamenco"],
+      "precio": null
+    },
+    {
+      "nombre": "Fiction Or Reality",
+      "descripcion": "Magia",
+      "tags": ["visual", "magic", "infantil"],
+      "precio": null
+    },
+    {
+      "nombre": "Banton Circus Show",
+      "descripcion": "Circo",
+      "tags": ["visual", "circo", "infantil"],
+      "precio": null
+    },
+    {
+      "nombre": "Miraggio",
+      "descripcion": "Magia",
+      "tags": ["visual", "magia", "infantil"],
+      "precio": null
+    },
+    {
+      "nombre": "Double Impact",
+      "descripcion": "Magia",
+      "tags": ["visual", "magia", "infantil"],
+      "precio": null
+    },
+    {
+      "nombre": "Barbara Magic Show",
+      "descripcion": "Magia",
+      "tags": ["visual", "magia", "infantil"],
+      "precio": null
+    },
+    {
+      "nombre": "ABBA Queens",
+      "descripcion": "Tributo a ABBA",
+      "tags": ["visual", "tributo", "duo"],
+      "precio": null
+    },
+    {
+      "nombre": "The Teddy Beats",
+      "descripcion": "Tributo a los Beatles",
+      "tags": ["visual", "tributo", "duo"],
+      "precio": null
+    },
+    {
+      "nombre": "MJ Tribute",
+      "descripcion": "Tributo a Michael Jackson",
+      "tags": ["visual", "tributo", "baile"],
+      "precio": null
+    },
+    {
+      "nombre": "Tina Show",
+      "descripcion": "Tributo a Tina Turner",
+      "tags": ["visual", "tributo", "duo"],
+      "precio": null
+    }
+  ]
+  
